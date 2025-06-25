@@ -3,7 +3,7 @@ from tkinter import scrolledtext
 import serial
 import threading
 
-# === CONFIGURATION ===
+# === CONFIGURATION === Aseloleeeeee
 SERIAL_PORT = 'COM8'      # Change to your port
 BAUD_RATE = 115200
 
